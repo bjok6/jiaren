@@ -15,9 +15,9 @@ let reconnectTimeout = null; // 新增：重连锁
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: '163.5.201.4', 
-    port: 13943,               
-    username: 'worldhappy0',  
+    host: '144.31.46.4', 
+    port: 14912,               
+    username: 'worldhappyz-521',  
     version: false,
     physics: false 
   });
