@@ -1,0 +1,14 @@
+{
+  "name": "happycarzy",
+  "version": "1.0.0",
+  "description": "Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "mineflayer": "github:PrismarineJS/mineflayer#master",
+    "minecraft-protocol": "github:PrismarineJS/node-minecraft-protocol#master"
+  }
+}
